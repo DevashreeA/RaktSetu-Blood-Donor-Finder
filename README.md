@@ -43,7 +43,7 @@ RaktSetu is a full-stack MERN-based platform designed to bridge the gap between 
 - **Frontend:** Deployed on Netlify  
   - Set `VITE_API_URL` in `.env` to your backend URL
 
-- **Backend:** Deployed on Render / Railway / Heroku  
+- **Backend:** Deployed on Render 
   - Set environment variables:
     - `MONGODB_URI`
     - `JWT_SECRET`
