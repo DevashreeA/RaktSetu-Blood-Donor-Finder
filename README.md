@@ -1,4 +1,5 @@
-# 🩸 RaktSetu – Blood Donor Finder Platform
+<h1 align="center">🩸 RaktSetu – Blood Donor Finder Platform</h1>
+
 
 RaktSetu is a full-stack MERN-based platform designed to bridge the gap between **blood donors** and **hospitals** in need. Built with modern technologies, it provides a secure, efficient, and real-time system for managing blood donation requests, emergency alerts, and donor coordination.
 
